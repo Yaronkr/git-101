@@ -1,0 +1,26 @@
+body{
+	margin:  0;
+	font-family: Helvetica;
+	color: yellow;
+	background-color: red;
+}
+
+h1 {
+
+	color: yellow !important;
+	font-size: 100px;
+}
+#logo {
+
+	height:  80px;
+	width: 80px;
+}
+
+#container {
+
+	display: flex;
+	align-items: center;
+	justify-content:  center;
+	height: 100vh;
+	flex-direction: column;
+}
